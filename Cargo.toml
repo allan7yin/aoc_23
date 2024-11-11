@@ -1,0 +1,8 @@
+[package]
+name = "advent_of_code_2023"
+version = "0.1.0"
+edition = "2021"
+authors = ["Allan Yin <a7yin@uwaterloo.ca>"]
+
+[dependencies]
+lazy-regex = "3.1.0"
